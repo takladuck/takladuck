@@ -57,7 +57,7 @@ I like making small programs that I can use or small games to play.
 
 <br/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=takladuck&theme=onedark&rank=S,AAA,SSS,SS,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=takladuck&theme=onedark&rank=S,AAA,SSS,SS,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>  
 
