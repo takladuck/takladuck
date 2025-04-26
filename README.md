@@ -1,4 +1,4 @@
-## Hey 👋, I'm Mohit Singh. A decent programmer  
+## Hey 👋, I'm Mohit Singh - A Chill programmer  
   
 
 <a href="https://github.com/takladuck" target="_blank">
